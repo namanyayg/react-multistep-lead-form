@@ -1,10 +1,10 @@
 # React Multistep Lead Form
 
-Create _high converting_ lead capture forms with multiple steps
+Create high converting lead capture forms with multiple steps ✏️
 
-Problem: Most lead capture forms have a single step. This is a problem because it means that the user has to fill out the form in one go. If they don't complete the form in one go, they have to start over.
+**Problem:** Most lead capture forms have a single step. This is a problem because it means that the user has to fill out the form in one go. If they don't complete the form in one go, they have to start over.
 
-Solution: Create lead capture forms with multiple steps, and keep sending the state of the form to the backend. This allows the user to complete the form in multiple parts.
+**Solution:** Create lead capture forms with multiple steps, and keep sending the state of the form to the backend. This allows the user to complete the form in multiple parts.
 
 ## Configuration
 

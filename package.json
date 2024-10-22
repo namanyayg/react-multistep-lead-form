@@ -1,4 +1,6 @@
 {
+  "name": "react-multistep-lead-form",
+  "description": "Create high converting lead capture forms with multiple steps ✏️",
   "version": "1.0.0",
   "author": {
     "name": "Namanyay Goel",
