@@ -1,0 +1,16 @@
+{
+  "version": "0.1.0",
+  "author": {
+    "name": "Namanyay Goel",
+    "email": "mail@namanyayg.com",
+    "url": "https://nmn.gl"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/namanyayg/react-multistep-lead-form"
+  },
+  "license": "MIT",
+  "main": "dist/index.js",
+  "typings": "dist/index.d.ts",
+  "files": ["dist", "src"]
+}
